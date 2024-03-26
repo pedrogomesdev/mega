@@ -1,0 +1,55 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-size: 10px;
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+.menu-nav li a{
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+header {
+    height: 50px;
+}
+
+.dados-conta strong {
+    font-size: 1.5rem;
+}
+
+#email-conta {
+    font-size: 1.7rem;
+}
+
+#jogos-conta {
+    font-size: 1.5rem;
+}
+
+.conteudo-conta {
+    margin-top: 2rem;
+}
+
+.numeros-populares {
+    margin-top: 50%;
+    border: none;
+    padding: 9px;
+    border-radius: 1000px;
+    background-color: green;
+    font-weight: bold;
+    color: white;
+}
+
+.conteudo-conta p span{
+    font-size: 1.5rem;
+}
